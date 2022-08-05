@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>cloudDB Application </Name>
+    <Assembly>cloudDB.dll</Assembly>
+    <AddInId>6A60833C-BFF8-4059-B98C-5DB639AFA192</AddInId>
+    <FullClassName>cloudDB.Application</FullClassName>
+    <VendorId>your vendor id</VendorId>
+    <VendorDescription>your vendor description</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
